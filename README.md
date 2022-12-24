@@ -1,5 +1,5 @@
 # ScratchEx/scratch-blocks
-Scratch blocks for SCratch Ex
+Scratch blocks for Scratch Ex
 
 Will include new added blocks later on.
 
