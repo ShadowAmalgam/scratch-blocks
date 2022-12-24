@@ -1,8 +1,8 @@
-# TurboWarp/scratch-blocks
+# ScratchEx/scratch-blocks
+Scratch blocks for SCratch Ex
 
-## Playgrounds
+Will include new added blocks later on.
 
- - **Vertical blocks**: https://turbowarp.github.io/scratch-blocks/tests/vertical_playground_compressed.html
 
 ## Local development
 
